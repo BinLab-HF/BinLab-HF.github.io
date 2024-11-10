@@ -1,7 +1,7 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
-# This website is avaliable on ![HomePage](https://binlab-hf.github.io/)
+# This website is avaliable on !(https://binlab-hf.github.io/)
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started
